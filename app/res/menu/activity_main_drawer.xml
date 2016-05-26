@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_home"
+            android:icon="@drawable/ic_home"
+            android:title="Home" />
+        <item
+            android:id="@+id/nav_seating"
+            android:icon="@drawable/ic_seating"
+            android:title="Asking for a Table" />
+        <item
+            android:id="@+id/nav_bill"
+            android:icon="@drawable/ic_monetization_on"
+            android:title="Asking for a Bill" />
+        <item
+            android:id="@+id/nav_restroom"
+            android:icon="@drawable/ic_wc"
+            android:title="Asking for a Restroom" />
+        <item
+            android:id="@+id/nav_allergies"
+            android:icon="@drawable/ic_local_pharmacy"
+            android:title="Allergies"/>
+        <item
+            android:id="@+id/nav_help"
+            android:icon="@drawable/ic_info"
+            android:title="Help"/>
+    </group>
+    <item android:title="Ordering Food">
+        <menu>
+            <item
+                android:id="@+id/nav_soup"
+                android:title="Soup"
+                />
+            <item
+                android:id="@+id/nav_friedRice"
+                android:title="Fried Rice"/>
+            <item
+                android:id="@+id/nav_stirFriedVegetables"
+                android:title="Stir Fried Vegetables"/>
+            <item
+                android:id="@+id/nav_stirFriedMeat"
+                android:title="Stir Fried Meat"/>
+            <item
+                android:id="@+id/nav_noodleSoup"
+                android:title="Noodle Soup"/>
+            <item
+                android:id="@+id/nav_stirFriedNoodle"
+                android:title="Stir Fried Noodle"/>
+            <item
+                android:id="@+id/nav_vegableSalad"
+                android:title="Vegetable Salad" />
+            <item
+                android:id="@+id/meat_salad"
+                android:title="Meat Salad"/>
+            <item
+                android:id="@+id/nav_vermicelliCurry"
+                android:title="Vermicelli Noodle in Curry"/>
+            <item
+                android:id="@+id/nav_grilling"
+                android:title="Grilling"/>
+            <item
+                android:title="Steamed/Fried Chicen Over Rice"
+                android:id="@+id/nav_kowMunGai"/>
+            <item
+                android:id="@+id/nav_KowKaaMoo"
+                android:title="Fried/Stewed Pork Over Rice"/>
+            <item
+                android:id="@+id/nav_quick_lunch"
+                android:title="Anything Over Rice for Quick Lunch"/>
+            <item
+                android:id="@+id/nav_drinks"
+                android:title="Drinks"/>
+            <item
+                android:id="@+id/nav_sideOrder"
+                android:title="Side Order"/>
+
+        </menu>
+    </item>
+    <item android:title="Communicate">
+        <menu>
+            <item
+                android:id="@+id/nav_share"
+                android:icon="@drawable/ic_menu_share"
+                android:title="Share" />
+            <item
+                android:id="@+id/nav_send"
+                android:icon="@drawable/ic_menu_send"
+                android:title="Send" />
+        </menu>
+    </item>
+</menu>
