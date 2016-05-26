@@ -1,6 +1,7 @@
 # ThaiFoodTalker
  is an android app that teach Thai language that relate to conversations in a restaurant in Thailand. 
- Users will be able to order food in restaurants in Thailand. 
+ Users will be able to order food in restaurants in Thailand. Minimum API of this app is API 17. The target API is API 23.
+ The test device has android 6.0 and API 23. 
 
 5/26/2016
 Future add on. The goal of this app is to solve the problems of how to order and what to eat? 
