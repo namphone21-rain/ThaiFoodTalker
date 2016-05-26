@@ -1,0 +1,170 @@
+<resources>
+    <string name="app_name">ThaiFoodTalker</string>
+
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+
+    <string name="action_settings">Settings</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="homepage_web_credits">
+        <item>image from www.digitaltrends.com/mobile/the-pepsi-phone-is-real-and-heres-what-it-looks-like/</item>
+        <item>image from www.fanpop.com/clubs/soda/images/6457783/title/sprite-photo</item>
+        <item>image from www.coca-colacompany.com/press-center/company-statements/the-coca-cola-company-statement-on-diet-coke</item>
+        <item>image from sites.psu.edu/fyeggjachera/2015/07/31/coke-gets-new-lead-media-agency/</item>
+        <item>image from medafricatimes.com/5087-heineken-and-cfao-associated-to-a-brewery-project-in-cote-divoire.html</item>
+        <item>image from www.femail.com.au/chang-beer.htm</item>
+        <item>image from onin.london/singha-beer-launches-authentic-thai-street-bar-at-street-feast-dalston/</item>
+        <item>image from krittapob.exteen.com/20110325/entry-1</item>
+        <item>image from news.nationalgeographic.com/news/2010/06/100608-sticky-rice-mortar-china-science/</item>
+        <item>image from recipeler.com/jasmine+rice.html</item>
+        <item>image from  www.knorr.co.th/สูตรอาหาร/รายละเอียด/8775/1/ต้มยำกุ้งน้ำใส</item>
+        <item>image from  www.knorr.co.th/สูตรอาหาร/รายละเอียด/12294/1/ต้มแซ่บปลาช่อน</item>
+        <item>image from  www.108health.com/ckfinder/userfiles/images/top/ต้มข่าไก่.jpg</item>
+        <item>image from  www.mglobemall.com/farm/userfiles/b/b2/000002549/5b64a740af2fdddf6fd63751ff0a2ed5.jpg</item>
+        <item>image from  www.kangtung.com/สูตรแกงเผ็ดไก่ใส่มะเขือเปราะ</item>
+        <item>image from  www.benmanhirefashion.com/blog/read/-10-Thai-Food-Calories</item>
+        <item>image from  www.matichon.co.th/news_detail.php?newsid=1427152366</item>
+        <item>image from  www.knorr.co.th/สูตรอาหาร/รายละเอียด/16025/1/ไก่ผัดเม็ดมะม่วงหิมพานต์</item>
+        <item>image from  www.thaiarcheep.com/ข้าวมันไก่ไหหลำคุณทำเป็.html</item>
+        <item>image from  news.thaiarcheep.com/2015/11/blog-post_275.html</item>
+        <item>image from  www.yummythairecipes.com/ผัดซีอิ้ว/</item>
+        <item>image from  www.knorr.co.th/สูตรอาหาร/รายละเอียด/12447/1/เส้นใหญ่ผัดขี้เมาทะเล</item>
+        <item>image from  www.knorr.co.th/สูตรอาหาร/รายละเอียด/16028/1/ผัดคะน้าหมูกรอบ</item>
+        <item>image from  www.cookded.com/ยำปลาดุกฟู</item>
+        <item>image from  www.xno3cb8anwl8abbnm30a.com/อาหาร/แกงส้มปลาช่อน</item>
+        <item>image from nuthyapath.wordpress.com/tag/ผัดคะน้าน้ำมันหอยเนื้อ</item>
+        <item>image from  goodmenuthai.blogspot.com/2013/05/blog-post_9045.html</item>
+        <item>image from  pantip.com/topic/32478345</item>
+        <item>image from  www.youtube.com/watch?v=mTeqh8NrpwU</item>
+        <item>image from  www.smeleader.com/ขายหมูปิ้ง-หมูปิ้งไทย</item>
+        <item>image from topicstock.pantip.com/food/topicstock/D3709292/D3709292.html</item>
+        <item>image from  bellhub.wordpress.com/2013/02/28/boran</item>
+        <item>image from  www.lamphuonline.com/small-restaurant/1407-น้องแพรวาโภชนา-บะหมี่เกี๊ยวรสดี.html</item>
+        <item>image from topicstock.pantip.com/food/topicstock/2006/11/D4874640/D4874640.html</item>
+        <item>image from pantip.com/topic/33231527</item>
+        <item>image from hugubon.com/edt/menu-review/166-all/673-ก๋วยเตี๋ยวหมู-ร้านผลโอชา</item>
+
+    </string-array>
+    <string-array name="recommended_thaifood_pronunciations">
+        <item>Paep(SR)see(F)</item>
+        <item>Sprite(R)</item>
+        <item>Diet Coke(R)</item>
+        <item>Coke(R)</item>
+        <item>Beer(M) Hi(SM)naa(M)gen(F)</item>
+        <item>Beer(M) Chaang(R)</item>
+        <item>Beer(M) Sing(SH)</item>
+        <item>Num(R)koad(L)</item>
+        <item>Kow(F)niow(H)</item>
+        <item>Kow(F)soay(H)</item>
+        <item>Thom(F) Yum(SM) Goong(SF)</item>
+        <item>Thom(F) Yum(SM) Bhlaa(M)chon(F)</item>
+        <item>Thom(F) Kaa(L) Gai(SL)</item>
+        <item>Pud(SM) Thai Goong(SF))</item>
+        <item>Gaen(M)daeng(M) Gai(SL)</item>
+        <item>Kow(F) Pud(SL) Gai(SL)</item>
+        <item>Ga(S)Prow(SM) Gai(SL) Kai(SL)dow(M)</item>
+        <item>Gai(SL) Pud(SL) Ma(SR)Moang(F) Him(SH)ma(SR)paan(M)</item>
+        <item>Kow(F)mun(SM) Gai(SL) Thom(F)</item>
+        <item>Kow(F) Kai(SL)jiow(M)</item>
+        <item>Pud(SL) See(M)Eew(R) Gai(SL)</item>
+        <item>Goay(H)thiow(H) Pud(L) Kee(F)mao(SM) Ta(SL)leh(M)</item>
+        <item>Pud(SL) Ka(SR)naa(R) Moo(H)grorb(L)</item>
+        <item>Yum(SM) Blaa(M)doog(SL) Foo(M)</item>
+        <item>Gaeng(M)som(F) Bhlaa(M)</item>
+        <item>Pud(L) Ka(R)naa(R) Num(SR)mun(SM)hoi(H) Gai(L) Raad(F) Kow(F)</item>
+        <item>Laab(F) Moo(H)</item>
+        <item>Thum(M) Thai</item>
+        <item>Num(R)thoke(SL) Neurh(R)</item>
+        <item>Kow(F)niow(H) Moo(H)yaang(F)</item>
+        <item>Kow(F)niow(H) Gai(L)yaang(F)</item>
+        <item>Goay(H)thiow(H) Num(R)thoke(SL) Neurh(R)</item>
+        <item>Ba(SL)Mee(L) Giow(R) Moo(H)daeng(M)</item>
+        <item>Goay(H)thiow(H) Gai(L)</item>
+        <item>Goay(H)thiow(H) Yen(M)thaa(M)pho(M)</item>
+        <item>Goay(H)thiow(H) Moo(H)</item>
+    </string-array>
+
+    <string name="home_description">
+        At the end of a sentence, a man says, \"Kub\" but a women says, \"Ka.\"
+    </string>
+    <string-array name="recommended_thaifood_thai">
+        <item>เป๊บซี่</item>
+        <item>สไปรท์</item>
+        <item>ไดเอท โค้ก</item>
+        <item>โค้ก</item>
+        <item>เบียร์ไฮนาเก้น</item>
+        <item>เบียร์ช้าง</item>
+        <item>เบียร์สิงห์</item>
+        <item>น้ำขวด</item>
+        <item>ข้าวเหนียว</item>
+        <item>ข้าวสวย</item>
+        <item>ต้มยำกุ้ง</item>
+        <item>ต้มยำปลาช่อน</item>
+        <item>ต้มข่าไก่</item>
+        <item>ผัดไทยกุ้ง</item>
+        <item>แกงแดงไก่</item>
+        <item>ข้าวผัดไก่</item>
+        <item>กระเพราไก่ ไข่ดาว</item>
+        <item>ไก่ผัดมะม่วงหิมพานต์</item>
+        <item>ข้าวมันไก่</item>
+        <item>ข้าวไข่เจียว</item>
+        <item>ผัดซีอิ๊วไก่</item>
+        <item>ก๋วยเตี๋ยวผัดขี้เมาทะเล</item>
+        <item>ผัดคะน้าหมูกรอบ</item>
+        <item>ยำปลาดุกฟู</item>
+        <item>แกงส้มปลา</item>
+        <item>ผัดคะน้าน้ำมันหอยไก่ราดข้าว</item>
+        <item>ลาบหมู</item>
+        <item>ตำไทย</item>
+        <item>น้ำตกเนื้อ</item>
+        <item>ข้าวเหนียวหมูย่าง</item>
+        <item>ข้าวเหนียวไก่ย่าง</item>
+        <item>ก๋วยน้ำตกเนื้อ</item>
+        <item>บะหมี่เกี๊ยวหมูแดง</item>
+        <item>ก๋วยเตี๋ยวไก่</item>
+        <item>ก๋วยเตี๋ยวเย็นตาโฟ</item>
+        <item>ก๋วยเตี๋ยวหมู</item>
+    </string-array>
+
+    <string-array name="recommended_thaifood_title">
+        <item>Peppsi</item>
+        <item>Sprite</item>
+        <item>Diet Coke</item>
+        <item>Coke</item>
+        <item>Hineken Beer</item>
+        <item>Chang Beer</item>
+        <item>Singha Beer</item>
+        <item>Bottles of water</item>
+        <item>Sticky Rice</item>
+        <item>Steamed Rice</item>
+        <item>Shrimp Tom Yum Soup</item>
+        <item>Snake Head Fish Tom Yum Soup</item>
+        <item>Chicken Coconut Milk Soup</item>
+        <item>Shrimp Pad Thai</item>
+        <item>Chicken Red Curry</item>
+        <item>Chicken Fried Rice</item>
+        <item>Ground Chicken in Spicy \nand Sweet Basil Sauce</item>
+        <item>Fried Chicken and Cashew Nuts</item>
+        <item>Steam Chicken Over Ginger \nFlavored Rice</item>
+        <item>Thai Omelet Over Rice</item>
+        <item>Chicken Pad See Eew</item>
+        <item>Seafood Pad Kee Mao</item>
+        <item>Stir Fried Chinese Broccoli \nwith Crispy Pork</item>
+        <item>Deep Fried Cat Fish Salad</item>
+        <item>Sweet and Sour Fish Curry</item>
+        <item>Chinese Broccoli with Chicken \nin Oyster Sauce Over Rice</item>
+        <item>Ground Pork Salad</item>
+        <item>Thai Papaya Salad</item>
+        <item>Grilled Beef Salad</item>
+        <item>Grilled Pork and Sticky Rice</item>
+        <item>Grilled Chicken and Sticky Rice</item>
+        <item>Beef Noodle Soup</item>
+        <item>Pork Wonton Ramen</item>
+        <item>Chicken Noodle Soup</item>
+        <item>Seafood Noodle Soup with \nPink Tofu Sauce</item>
+        <item>Pork Noodle Soup</item>
+    </string-array>
+
+</resources>
