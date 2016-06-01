@@ -12,9 +12,6 @@ public class FoodEngThaiData extends EngThaiData {
     private int image;
     private String web_credit;
     private boolean isChosen;
-    private int color;
-    public static final int PURPLE_COLOR = 990099;
-    public static final int WHITE = Color.WHITE;
 
     /**
      *
@@ -34,16 +31,11 @@ public class FoodEngThaiData extends EngThaiData {
         this.image = image;
         this.web_credit = web_credit;
         this.isChosen = isChosen;
-        this.color = WHITE;
     }
 
     public void setChosen(boolean isChosen){
         this.isChosen = isChosen;
     }
-
-    public void setColor(int color){this.color = color;}
-
-    public int getColor(){return this.color;}
 
     public int getImage(){return image;}
 
@@ -54,6 +46,6 @@ public class FoodEngThaiData extends EngThaiData {
     @Override
     public String toString(){
         return super.toString() + " image:" + getImage() + " web_credit:" +
-                getWeb_credit() + " isChosen:" + getIsChosen() + " color:" + getColor();
+                getWeb_credit() + " isChosen:" + getIsChosen();
     }
 }
