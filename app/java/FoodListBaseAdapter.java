@@ -1,10 +1,7 @@
 package com.gohgai.thaifoodtalker;
 
 import android.app.Activity;
-//import android.content.Context;
-//import android.graphics.Color;
 import android.media.MediaPlayer;
-import android.util.Log;
 import android.view.Gravity;
 import android.view.LayoutInflater;
 import android.view.View;
@@ -14,13 +11,10 @@ import android.widget.CheckBox;
 import android.widget.CompoundButton;
 import android.widget.ImageButton;
 import android.widget.ImageView;
-//import android.widget.LinearLayout;
 import android.widget.TextView;
-//import android.widget.Toast;
-
 import java.util.ArrayList;
 import android.os.Handler;
-import java.util.logging.LogRecord;
+
 
 /**
  * This BaseAdater is for the ListView that contains food images, food name in Thai,
@@ -125,7 +119,7 @@ public class FoodListBaseAdapter extends BaseAdapter{
 
         //create a press/click button's action. The action is, a popup window is displayed.
         viewHolder.moreDetailButton.setOnClickListener(new View.OnClickListener() {
-            
+
             @Override
             public void onClick(View v) {
                 int pos = (Integer)v.getTag();
@@ -140,14 +134,14 @@ public class FoodListBaseAdapter extends BaseAdapter{
 
                 LayoutInflater layoutInflater = (LayoutInflater)activity.getBaseContext()
                         .getSystemService(activity.LAYOUT_INFLATER_SERVICE);
-                
+
                 View popupView = layoutInflater.inflate(R.layout.popup_window_layout, null);
 
                 MyPopUpWindow myPopUpWindow
                         = new MyPopUpWindow(v.getContext(),popupView, data, mediaPlayer, myHandler);
-                
+
                 myPopUpWindow.setFocusable(true);
-                
+
                 myPopUpWindow.showAtLocation(v, Gravity.CENTER,0,0);
             }
         });
@@ -159,12 +153,12 @@ public class FoodListBaseAdapter extends BaseAdapter{
      * View Holder is needed for recycling views in the ListView
      */
     private class ViewHolder{
-        
+
         CheckBox thaiDish;
         ImageView foodImage;
         TextView web_credit_textView;
         ImageButton moreDetailButton;
-        
+
         public ViewHolder(View v) {
 
             this.moreDetailButton = (ImageButton)v.findViewById(R.id.more_detail_button);
