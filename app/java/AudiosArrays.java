@@ -65,6 +65,6 @@ public class AudiosArrays {
             R.raw.mooyaang, R.raw.kohmooyaang, R.raw.bhaengnomyaang, R.raw.saiyaang,
             R.raw.neurhyaang, R.raw.naemyaang, R.raw.saigrogyaang, R.raw.bhlaanilyaang,
             R.raw.bhlaadoogyaang, R.raw.goongmaenumyaang, R.raw.bhlaachonyaang, R.raw.kaiphing,
-            R.raw.goongyaang
+            R.raw.goongyaang, R.raw.yaangroam
     };
 }
