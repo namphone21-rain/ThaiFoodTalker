@@ -1,13 +1,134 @@
 <resources>
     <string name="app_name">ThaiFoodTalker</string>
-
     <string name="navigation_drawer_open">Open navigation drawer</string>
     <string name="navigation_drawer_close">Close navigation drawer</string>
 
-    <string name="action_settings">Settings</string>
+    <string name="action_settings">Setting</string>
 
     <!-- TODO: Remove or change this placeholder text -->
     <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string-array name="grilling_web_credits">
+        <item>image from archeep.smeleader.com/ขายอะไรดี-ขายไก่ย่าง/</item>
+        <item>image from www.reviewchiangmai.com/1711</item>
+        <item>image from www.wongnai.com/restaurants/132952wq-ส้มตำก้าวแรก/photos/abb7df37cb6f45f18d8c06ff7d30fe5b</item>
+        <item>image from www.wongnai.com/restaurants/20758LZ-citrine-bar-restaurant-st-jame-hotel/photos/ccdd719320e743f9b667a725f4e469e3</item>
+        <item>image from www.chingcancook.com/steps.php?id=353</item>
+        <item>image from www.foodtravel.tv/recfoodShow_Detail.aspx?viewId=1407</item>
+        <item>image from www.wongnai.com/restaurants/187318VO-chill-chid-charm/photos/21da3774d02049df82b1209ed0cee98f</item>
+        <item>image from www.wongnai.com/restaurants/23014du-นายข้าวนึ่ง/photos/5bfb6596ab824f619ecb3b6673941a1d</item>
+        <item>image from www.wongnai.com/reviews/bd5f0f2d3df54ca3af18b39f701eb10e</item>
+        <item>image from www.kruaklaibaan.com/viewtopic.php?f=11&amp;t=2680</item>
+        <item>image from m.pantip.com/topic/31271628</item>
+        <item>image from www.wongnai.com/restaurants/13929PI-ต่ายเมี่ยงปลาเผา/photos/214d57d418a545238726e55293b7c632</item>
+        <item>image from topicstock.pantip.com/food/topicstock/2012/05/D12142561/D12142561.html</item>
+        <item>image from www.triptravelgang.com/travel-restaurant/15453/</item>
+        <item>image from www.zabdelivery.com/store/menu/merchant/1021</item>
+        <item>image from topicstock.pantip.com/camera/topicstock/2012/02/O11670441/O11670441.html</item>
+        <item>image from cooking.kapook.com/view118301.html</item>
+        <item>image from https://www.wongnai.com/restaurants/23014du-นายข้าวนึ่ง/photos/37cbf580ac4a4ef490e688ebf2e8600c</item>
+    </string-array>
+    <string-array name="grilling_titles">
+        <item>Grilled Chicken</item>
+        <item>Grilled Chicken Wings</item>
+        <item>Grilled Chicken Thighs</item>
+        <item>Grilled Chicken Breast</item>
+        <item>Grilled Pork</item>
+        <item>Grilled Pig\'s Neck</item>
+        <item>Grilled Pig\'s Breast</item>
+        <item>Grilled Pig\'s Intestine</item>
+        <item>Grilled Beef</item>
+        <item>Grilled Pink and Sour Pork Sausages</item>
+        <item>Grilled Pork Sausages</item>
+        <item>Grilled Tilapia</item>
+        <item>Grilled Cat Fish</item>
+        <item>Grilled River Prawns</item>
+        <item>Grilled Snakehead Fish</item>
+        <item>Grilled Eggs</item>
+        <item>Grilled Shrimps</item>
+        <item>Mixed Grilled Pork</item>
+    </string-array>
+    <string-array name="grilling_thais">
+        <item>ไก่ย่าง</item>
+        <item>ปีกไก่ย่าง</item>
+        <item>น่องไก่ย่าง</item>
+        <item>อกไก่ย่าง</item>
+        <item>หมูย่าง</item>
+        <item>คอหมูย่าง</item>
+        <item>แป้งนมย่าง</item>
+        <item>ไส้ย่าง</item>
+        <item>เนื้อย่าง</item>
+        <item>แหนมย่าง</item>
+        <item>ไส้กรอกย่าง</item>
+        <item>ปลานิลย่าง</item>
+        <item>ปลาดุกย่าง</item>
+        <item>กุ้งแม่น้ำย่าง</item>
+        <item>ปลาช่อนย่าง</item>
+        <item>ไข่ปิ้ง</item>
+        <item>กุ้งย่าง</item>
+        <item>ย่างรวมหมู</item>
+    </string-array>
+    <string-array name="grilling_pronunciations">
+        <item>Gai(L) Yaang(F)</item>
+        <item>Bheeg(L) Gai(L) Yaang(F)</item>
+        <item>Nong(F) Gai(L) Yaang(F)</item>
+        <item>Oke(SL) Gai(L) Yaang(F)</item>
+        <item>Moo(H) Yaang(F)</item>
+        <item>Koh(M) Moo(H) Yaang(F)</item>
+        <item>Bhaeng(F)nom(SM) Yaang(F)</item>
+        <item>Sai(SF) Yaang(F)</item>
+        <item>Neurh(R) Yaang(F)</item>
+        <item>Naem(H) Yaang(F)</item>
+        <item>Sai(F)grog(L) Yaang(F)</item>
+        <item>Bhlaa(M)nin(SM) Yaang(F)</item>
+        <item>Bhlaa(M)doog(SL) Yaang(F)</item>
+        <item>Goog(SF) Mae(F)num(R) Yaang(F)</item>
+        <item>Bhlaa(M)chon(F) Yaang(F)</item>
+        <item>Khai(SL) Bhing(SF)</item>
+        <item>Goong(SF) Yaang(F)</item>
+        <item>Yaang(F) Roam(M) Moo(H)</item>
+    </string-array>
+    <string-array name="animals_titles">
+        <item>Chicken</item>
+        <item>Pork</item>
+        <item>Beef</item>
+        <item>Shrimp</item>
+        <item>Fish</item>
+        <item>Seafood</item>
+        <item>Mussels</item>
+        <item>Calamari/0ctopus/Squid</item>
+        <item>Crabs</item>
+        <item>Clams</item>
+        <item>Tofu</item>
+    </string-array>
+
+    <string-array name="animals_pronunciations">
+        <item>Gai(L)</item>
+        <item>Moo(H)</item>
+        <item>Neurh(R)</item>
+        <item>Goong(F)</item>
+        <item>Bhlaa(M)</item>
+        <item>Ta(SF)lay(M)</item>
+        <item>Hoi(H) Ma(F)laeng(M)poo(F)</item>
+        <item>Bhlaa(M)muegh</item>
+        <item>Bhoo(M)</item>
+        <item>Hoi(H)lai(M)</item>
+        <item>Tow(F)hoo(F)</item>
+    </string-array>
+
+    <string-array name="animals_thais">
+        <item>ไก่</item>
+        <item>หมู</item>
+        <item>เนื้อ</item>
+        <item>กุ้ง</item>
+        <item>ปลา</item>
+        <item>ทะเล</item>
+        <item>หอยมะแลงภู่</item>
+        <item>ปลาหมึก</item>
+        <item>ปู</item>
+        <item>หอยลาย</item>
+        <item>เต้าหู้</item>
+    </string-array>
+
     <string-array name="homepage_web_credits">
         <item>image from www.digitaltrends.com/mobile/the-pepsi-phone-is-real-and-heres-what-it-looks-like/</item>
         <item>image from www.fanpop.com/clubs/soda/images/6457783/title/sprite-photo</item>
@@ -45,6 +166,7 @@
         <item>image from topicstock.pantip.com/food/topicstock/2006/11/D4874640/D4874640.html</item>
         <item>image from pantip.com/topic/33231527</item>
         <item>image from hugubon.com/edt/menu-review/166-all/673-ก๋วยเตี๋ยวหมู-ร้านผลโอชา</item>
+        <item>image from en.wikipedia.org/wiki/Sprite_(soft_drink)</item>
 
     </string-array>
     <string-array name="recommended_thaifood_pronunciations">
@@ -65,7 +187,7 @@
         <item>Gaen(M)daeng(M) Gai(SL)</item>
         <item>Kow(F) Pud(SL) Gai(SL)</item>
         <item>Ga(S)Prow(SM) Gai(SL) Kai(SL)dow(M)</item>
-        <item>Gai(SL) Pud(SL) Ma(SR)Moang(F) Him(SH)ma(SR)paan(M)</item>
+        <item>Gai(SL) Pud(SL) Med(SR) Ma(SR)moang(F) Him(SH)ma(SR)paan(M)</item>
         <item>Kow(F)mun(SM) Gai(SL) Thom(F)</item>
         <item>Kow(F) Kai(SL)jiow(M)</item>
         <item>Pud(SL) See(M)Eew(R) Gai(SL)</item>
@@ -107,7 +229,7 @@
         <item>แกงแดงไก่</item>
         <item>ข้าวผัดไก่</item>
         <item>กระเพราไก่ ไข่ดาว</item>
-        <item>ไก่ผัดมะม่วงหิมพานต์</item>
+        <item>ไก่ผัดเม็ดมะม่วงหิมพานต์</item>
         <item>ข้าวมันไก่</item>
         <item>ข้าวไข่เจียว</item>
         <item>ผัดซีอิ๊วไก่</item>
@@ -129,7 +251,7 @@
     </string-array>
 
     <string-array name="recommended_thaifood_title">
-        <item>Peppsi</item>
+        <item>Pepsi</item>
         <item>Sprite</item>
         <item>Diet Coke</item>
         <item>Coke</item>
@@ -166,5 +288,274 @@
         <item>Seafood Noodle Soup with \nPink Tofu Sauce</item>
         <item>Pork Noodle Soup</item>
     </string-array>
-
+    <string-array name="seating_thais">
+        <item>(คน)</item>
+        <item>(ไป)</item>
+        <item>(ชั้นบน)</item>
+        <item>(ชั้นล่าง)</item>
+        <item>(นั่ง)</item>
+        <item>(ที่ไหน)</item>
+        <item>(ดี)</item>
+        <item>(สวัสดี คับ/ค่ะ)</item>
+        <item>(กี่คนคับ/ค่ะ)</item>
+        <item>(หนึ่งคนคับ/ค่ะ)</item>
+        <item>(สี่คนคับ/ค่ะ)</item>
+        <item>(สิบคนคับ/ค่ะ)</item>
+        <item>(นั่งที่ไหนดีคับ/คะ)</item>
+        <item>(ตรงนี้)</item>
+        <item>(ตรงนั้น)</item>
+        <item>(ไปข้างบนคับ/ค่ะ หรือ ไปชั้นบนคับ/ค่ะ)</item>
+        <item>(ไปข้างล่างคับ/ค่ะ หรือ ไปชั้นล่างคับ/ค่ะ)</item>
+        <item>(ตรงนี้ไหม)</item>
+        <item>(ตรงนั้นไหม)</item>
+    </string-array>
+    <string-array name="seating_titles">
+        <item>People</item>
+        <item>Go</item>
+        <item>Upstairs</item>
+        <item>Downstairs</item>
+        <item>Sit</item>
+        <item>Where</item>
+        <item>Good</item>
+        <item>Hello</item>
+        <item>How many people?</item>
+        <item>1 person</item>
+        <item>4 people</item>
+        <item>10 people</item>
+        <item>Where should we/I sit? (Say, sit where? good?)</item>
+        <item>Here</item>
+        <item>There</item>
+        <item>Go Upstairs</item>
+        <item>Go Downstairs</item>
+        <item>What about here?</item>
+        <item>What abut over there?</item>
+    </string-array>
+    <string-array name="seating_pronunciations">
+        <item>Kone(SM)</item>
+        <item>Bhai(SM)</item>
+        <item>Kaang(F)bone(SM) / Chun(SR)bone(SM)</item>
+        <item>Kaang(F)laang(F) / Chun(SR)laang(F)</item>
+        <item>Nung(SF)</item>
+        <item>Tee(F)nai(SH)</item>
+        <item>Dee(M)</item>
+        <item>Swad(SL)dee(M) Kub(SR)/Ka(SL)</item>
+        <item>Gee(L) Kone(SM) Kub(SR)/Ka(SR)</item>
+        <item>Nueng(SL) Kone(SM) Kub(SR)/Ka(SL)</item>
+        <item>See(L) Kone(SM) Kub(SR)/Ka(SL)</item>
+        <item>Sib(SL) Kone(SM) Kub(SR)/Ka(SL)</item>
+        <item>Nung(SF) Tee(F)nai(SH) Dee(M) Kub(SR)/Ka(SR)</item>
+        <item>Throng(SM)nee(R)</item>
+        <item>Throng(SM)nun(R)</item>
+        <item>Bhai(SM) Kaang(F)laang(F) Kub(SR)/Ka(SL)/ Bhai(SM) Chun(SR)bone(SM) Kub(SR)/Ka(SL)</item>
+        <item>Bhai(SM) Kaang(F)laang(F) Kub(SR)/Ka(SL)/ Bhai(SM) Chun(SR)laang(F) Kub(SR)/Ka(SL)</item>
+        <item>Throng(SM)nee(R) Mai(SR)</item>
+        <item>Throng(SM)nun(SR) Mai(SR)</item>
+    </string-array>
+    <string-array name="restroom_titles">
+        <item>Where is the restroom/toilet?</item>
+        <item>Where</item>
+        <item>Restroom/toilet</item>
+        <item>Restaurant</item>
+        <item>Over there</item>
+        <item>Over here</item>
+        <item>This way</item>
+        <item>That way</item>
+        <item>Way</item>
+        <item>This</item>
+        <item>That</item>
+        <item>It is at the back of the restaurant</item>
+        <item>At the back</item>
+        <item>Straight</item>
+        <item>Right</item>
+        <item>Left</item>
+        <item>Walk Straight</item>
+        <item>Walk</item>
+        <item>On your right</item>
+        <item>On your left</item>
+        <item>Turn left</item>
+        <item>Turn</item>
+        <item>Turn right</item>
+    </string-array>
+    <string-array name="restroom_thais">
+        <item>(ห้องน้ำอยู่ที่ไหน)</item>
+        <item>(ที่ไหน)</item>
+        <item>(ห้องน้ำ)</item>
+        <item>(ร้าน/ร้านอาหาร)</item>
+        <item>(เดิน)</item>
+        <item>(ตรงนั้น/ตรงโน้น/อยู่โน่น/อยู่นู่น/อยู่นั่น)</item>
+        <item>(ตรงนี้/อยู่นี่)</item>
+        <item>(ทางนี้)</item>
+        <item>(ทางนั้น/ทางโน้น)</item>
+        <item>(ทาง)</item>
+        <item>(นี่/นี้)</item>
+        <item>(นั่น/นั้น/โน่น/โน้น)</item>
+        <item>(อยู่ด้านหลังของร้าน)</item>
+        <item>(อยู่ด้านหลัง)</item>
+        <item>(ตรงไป)</item>
+        <item>(ด้านขวา)</item>
+        <item>(ด้านซ้าย)</item>
+        <item>(เดินตรงไป)</item>
+        <item>(อยู่ด้านขวา)</item>
+        <item>(อยู่ด้านซ้าย)</item>
+        <item>(เลี้ยวซ้าย)</item>
+        <item>(เลี้ยว)</item>
+        <item>(เลี้ยวขวา)</item>
+    </string-array>
+    <string-array name="restroom_pronunciation">
+        <item>Hong(F)num(R) Yoo(L) Tee(F)nai(SH)</item>
+        <item>Tee(F)nai(SH)</item>
+        <item>Hong(F)num(R)</item>
+        <item>Raan(R)/Raan(R)Aah(M)haan(H)</item>
+        <item>Dern(M)</item>
+        <item>Throng(SM)nun(R) / Throng(SM)non(R) / Yoo(L)non(F) / Yoo(L)noon(F) / Yoo(L)nun(F)</item>
+        <item>Throng(SM)nee(R) / Yoo(L)nee(F)</item>
+        <item>Taang(M)nee(R)</item>
+        <item>Taang(M)nun(R)/Taang(M)non(R)</item>
+        <item>Taang(M)</item>
+        <item>Nee(F)/Nee(R)</item>
+        <item>Nun(F)/Nun(R)/Non(F)/Non(R)</item>
+        <item>Yoo(L) Daan(F)lung(SH) Kong(H) Raan(R)</item>
+        <item>Yoo(L) Daan(F)lung(SH)</item>
+        <item>Throng(SM)bhai(SM)</item>
+        <item>Daan(F) Kwaa(H)</item>
+        <item>Daan(F) Sai(R)</item>
+        <item>Dern(M) Throng(SM)bhai(SM)</item>
+        <item>Yoo(L) Daan(F)Kwaa(H)</item>
+        <item>Yoo(L) Daan(F)Sai(R)</item>
+        <item>Liow(R) Sai(R)</item>
+        <item>Liow(R)</item>
+        <item>Liow(R) Kwaa(SH)</item>
+    </string-array>
+    <string-array name="allergies_titles">
+        <item>I am allergic to</item>
+        <item>Allergy/Allergic/Allergies</item>
+        <item>I (for a man)</item>
+        <item>I (for a woman)</item>
+        <item>Soy</item>
+        <item>I am allergic to soy.</item>
+        <item>Cow Milk</item>
+        <item>I am allergic to cow milk.</item>
+        <item>Wheat</item>
+        <item>Peanuts</item>
+        <item>Shell Fish (Animals with shells that live in water)</item>
+        <item>MSG</item>
+        <item>Onion</item>
+        <item>Red Meat</item>
+        <item>Mushroom</item>
+        <item>Berries (small fruits such as strawberries)</item>
+        <item>Carrots</item>
+        <item>Avocado</item>
+        <item>Pineapples</item>
+        <item>Eggplants</item>
+        <item>String Beans</item>
+        <item>Tomatoes</item>
+    </string-array>
+    <string-array name="allergies_thais">
+        <item>(ดิฉัน/ผม แพ้)</item>
+        <item>(แพ้)</item>
+        <item>(ผม)</item>
+        <item>(ดิฉัน)</item>
+        <item>(ถั่วเหลือง)</item>
+        <item>(ดิฉัน/ผม แพ้ถั่วเหลือง)</item>
+        <item>(นมวัว)</item>
+        <item>(ดิฉัน/ผม แพ้นมวัว)</item>
+        <item>(ข้าวสาลี)</item>
+        <item>(ถั่วลิสง)</item>
+        <item>(สัตว์น้ำที่มีเปลือกหรือกระดอง เช่น กุ้ง หอย)</item>
+        <item>(ชูรส)</item>
+        <item>(หอม)</item>
+        <item>(เนื่อแดง)</item>
+        <item>(เห็ด)</item>
+        <item>(ผลไม้เล็กๆ เช่น สตอรเบอรรี่)</item>
+        <item>(แครอท)</item>
+        <item>(อะโวคาโด้)</item>
+        <item>(สับปะรด)</item>
+        <item>(มะเขือ)</item>
+        <item>(ถั่วฝักยาว)</item>
+        <item>(มะเขือเทศ)</item>
+    </string-array>
+    <string-array name="allergies_pronunciations">
+        <item>Di(SL)chun(SH)/Pom(SH) Pae(R)</item>
+        <item>Pae(R)</item>
+        <item>Pom(SH)</item>
+        <item>Di(SL)chun(SH)</item>
+        <item>Toa(L)laung(H)</item>
+        <item>Di(SL)chun(SH)/Pom(SH) Pae(R) Toa(L)laung(H)</item>
+        <item>Nom(SM)woa(M)</item>
+        <item>Di(SL)chun(SH)/Pom(SH) Pae(R) Nom(SM)woa(M)</item>
+        <item>Koa(F)saa(H)lee(M)</item>
+        <item>Toa(L)li(SR)song(SH)</item>
+        <item>Sud(SL)num(SR) Tee(F) Mee(M) Bhleurg(M) Rue(H) Gra(SM)dohng(M) Chen(SF) Goong(SF) Hoi(SH)</item>
+        <item>Choo(M)rode(SM)</item>
+        <item>Hohm(H)</item>
+        <item>Neurh(R) Daeng(M)</item>
+        <item>Hed(SL)</item>
+        <item>Pol(SH)lmai(SR)</item>
+        <item>Carrot</item>
+        <item>Avoca(M)do(F)</item>
+        <item>Sub(SL)bha(SL)rode(F)</item>
+        <item>Ma(SR)keurh(H)</item>
+        <item>Toa(L)fug(SL)yow(M)</item>
+        <item>Ma(SR)keurh(H)ted(F)</item>
+    </string-array>
+    <string-array name="bill_pronunciations">
+        <item>Nong(R) Kub(SR)/Ka(SR), Check(SR) Bin(SM) Kub(SR)/Ka(SR)</item>
+        <item>Nong(R) Kub(SR)/Ka(SR)</item>
+        <item>Pee(F) Kub(SR)/Ka(SR)</item>
+        <item>Bin(SM)</item>
+        <item>Check(SR)Bin(SM) Kub(SR)/Ka(SL)</item>
+        <item>Koh(H)tod(SF) Na(SR)kub(SR)/ka(SR)</item>
+        <item>Gee(L) Baad(L) Kub(SR)/Ka(SR)</item>
+        <item>Koh(H)tod(SF) Na(SR)kub(SR)/ka(SR), Gee(L) Baad(L) Na(SR)kub(SR)/ka(SR)</item>
+        <item>Roam(M) Tip(SR) Rue(H)yung(SM) Kub(SR)/Ka(SR)</item>
+        <item>Thib(SR)</item>
+        <item>Roam(M)</item>
+        <item>Roam(M) Laew(R) Kub(SR)/Ka(SL)</item>
+        <item>Yung</item>
+        <item>Yung(SM) Mai(SF) Roam(M) Kub(SR)/Ka(SL)</item>
+        <item>Mai(SF) Kub(SR)/Ka(SL)</item>
+        <item>Chai(SF) Kub(SR)/Ka(SL)</item>
+        <item>Chai(SF) Kub(SR)/Ka(SR), Roam(M) Thib(SR) Laew(R) Kub(SR)/Ka(SL)</item>
+        <item>Kob(L)koon(SM) Kub(SR)/Ka(SL)</item>
+    </string-array>
+    <string-array name="bill_thais">
+        <item>(น้องคับ/คะ) เช็กบิลคับ/ค่ะ</item>
+        <item>(น้องคับ/คะ)</item>
+        <item>(พี่คับ/คะ)</item>
+        <item>(บิล)</item>
+        <item>(เช็กบิลคับ/คะ)</item>
+        <item>(ขอโทษนะคับ/คะ)</item>
+        <item>(กี่บาทคับ/คะ)</item>
+        <item>(ขอโทษนะคับ/คะ กี่บาทคับ/คะ)</item>
+        <item>(รวมติ๊บหรือยังคับ/คะ)</item>
+        <item>(ติ๊บ)</item>
+        <item>(รวม)</item>
+        <item>(รวมแล้วคับ/ค่ะ)</item>
+        <item>(ยัง)</item>
+        <item>(ยังไม่รวมคับ/ค่ะ)</item>
+        <item>(ไม่คับ/ค่ะ)</item>.
+        <item>(ใช่คับ/ค่ะ)</item>
+        <item>(ใช่คับ/ค่ะ รวมติ๊บแล้วคับ/ค่ะ)</item>
+        <item>(ขอบคุณคับ/ค่ะ)</item>
+    </string-array>
+    <string-array name="bill_titles">
+        <item>Little brother / sister, bill please</item>
+        <item>Call someone who is younger.(little sister / brother)</item>
+        <item>Call someone who is older or age unsure.(big sister / brother)</item>
+        <item>Bill</item>
+        <item>Bill, please</item>
+        <item>Excuse me / Pardon me</item>
+        <item>How much?</item>
+        <item>Excuse me, how much?</item>
+        <item>Is it included tip?</item>
+        <item>Tip</item>
+        <item>Include / Included</item>
+        <item>It\'s already included.</item>
+        <item>Yet</item>
+        <item>Not included yet.</item>
+        <item>No or not</item>
+        <item>Yes</item>
+        <item>Yes, tip is already included.</item>
+        <item>Thank you</item>
+    </string-array>
 </resources>
